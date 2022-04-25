@@ -1,3 +1,6 @@
+*{
+    box-sizing: border-box;
+}
 body {
     margin: 0;
     padding: 0;
@@ -677,7 +680,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 12px;
 }
 
 .tight-width-whitespace {
@@ -700,7 +703,6 @@ p {
 }
 
 .social {
-    max-width: 400px;
     margin: auto auto auto auto;
 }
 
@@ -736,7 +738,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: blue!important;
 }
 
 .portfolio-thumb {
@@ -775,7 +777,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFF!important;
 }
 
 .btn-atomic-tangerine {
